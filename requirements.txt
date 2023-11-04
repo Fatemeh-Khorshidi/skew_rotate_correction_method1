@@ -4,3 +4,4 @@ scikit-image
 deskew
 pytesseract
 keras
+tensorflow
