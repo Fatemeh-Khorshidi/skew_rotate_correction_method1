@@ -3,7 +3,7 @@ import numpy as np
 import os
 
 # load the image we want to de-skew
-from skewcurrection.skew_stimation import estimate_skewness, de_skew
+from skewcorrection.skew_stimation import estimate_skewness, de_skew
 
 
 def load_image(path):

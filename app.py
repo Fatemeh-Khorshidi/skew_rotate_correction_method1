@@ -2,7 +2,7 @@ import argparse
 import os
 import time
 from preprocess import load_image
-from skewcurrection.skew_stimation import estimate_skewness, de_skew
+from skewcorrection.skew_stimation import estimate_skewness, de_skew
 from evaluate import evaluate_model
 
 
